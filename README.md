@@ -1,7 +1,7 @@
 # MyProfile
-# some Git commands
+## Some Git commands
 
-git branch -a  -> show remote branch
-git branch      -> show local branch
-git clean -fd   -> remove untrack file folder
-git push --set-upstream origin <branchname>
+1. git branch -a  -> show remote branch
+2. git branch      -> show local branch
+3. git clean -fd   -> remove untrack file folder
+4. git push --set-upstream origin <branchname>
